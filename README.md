@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages [Change]
 
 You can use the [editor on GitHub](https://github.com/click800/click800.gethub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
